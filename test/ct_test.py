@@ -1,4 +1,4 @@
-from colored_text import colored_text as ct
+from coloredtext import colored_text as ct
 
 print(ct("*", "red")*15)
 print(ct("Test", "blue"))
